@@ -14,3 +14,16 @@ In this Python notebook, we process the GeoJSON files and extract information ab
 - A function designed to construct a directed graph representing the Indian Railways network using the networkx library, and then converts the graph data into RDF-like triples.
 - Exporting the triples as an excel file named: train_station_triples.
 
+# Neo4jGraphCreation.ipynb
+
+Generating a Neo4j Knowledge Graph using the extracted triples. A knowledge graph created using the triples extracted in the previous parts of the project, sources from the trains and stations JSON files later converted to triples and extracted as an excel file.
+
+# File VisualiseKG.ipynb
+
+Visualising Knowledge Graph using pyvis.network by reading the triples extracted in previous steps of the project.
+
+The graph is later exported as an HTML file named: "indian_railways.html"
+
+# Graph Snippet
+
+![WhatsApp Image 2024-06-28 at 00 58 13_2ddf627d](https://github.com/AyushiKashyapp/indian_railways_network/assets/147310638/3884529b-ba45-433c-9d24-f0893e966027)
