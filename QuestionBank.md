@@ -28,5 +28,4 @@ I visualized the knowledge graph using the `pyvis` library. I converted the trip
 One of the main challenges was handling the large volume of data and ensuring the accuracy of the geometries in the GeoJSON files. I overcame this by implementing robust error handling and filtering out invalid geometries. Another challenge was optimizing the creation and visualization of the knowledge graph, which I addressed by limiting the number of triples for demonstration purposes and using efficient data processing techniques.
 
 10. **What are the potential applications of the knowledge graph you created?**
-
-**A10:** The knowledge graph can be used for various applications, such as optimizing train routes, analyzing connectivity between stations, and enhancing decision-making processes for railway operations. It can also serve as a foundation for building more advanced applications like recommendation systems for travelers or predictive maintenance systems for railway infrastructure.
+The knowledge graph can be used for various applications, such as optimizing train routes, analyzing connectivity between stations, and enhancing decision-making processes for railway operations. It can also serve as a foundation for building more advanced applications like recommendation systems for travelers or predictive maintenance systems for railway infrastructure.
