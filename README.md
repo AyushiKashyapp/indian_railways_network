@@ -4,6 +4,8 @@ The Indian Railways network is the fourth largest railway network. This project 
 
 The dataset used in this project can be found here: [Indian Railways](https://www.kaggle.com/datasets/sripaadsrinivasan/indian-railways-dataset)
 
+Find teh project question bank here [QuestionBank](https://github.com/AyushiKashyapp/indian_railways_network/blob/main/QuestionBank.md)
+
 The files train and stations are available in GeoJSON format.
 
 # IndianRailways_Triples.ipynb
